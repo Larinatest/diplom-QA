@@ -42,8 +42,4 @@ out/
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
-<<<<<<< HEAD
 !**/src/test/**
-=======
-!**/src/test/**
->>>>>>> 416d25d6b021acb69e4c78e79414cec5323326b3
